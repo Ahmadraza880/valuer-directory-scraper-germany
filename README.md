@@ -2,7 +2,7 @@
 
 _Effortlessly extract insights, automate your data journey._
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/valuer-directory-scraper-germany?style=social)
+![GitHub stars]([https://img.shields.io/github/stars/yourusername/valuer-directory-scraper-germany?style=social](https://github.com/Ahmadraza880/valuer-directory-scraper-germany/edit/main/README.md))
 ![GitHub forks](https://img.shields.io/github/forks/yourusername/valuer-directory-scraper-germany?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/valuer-directory-scraper-germany?style=flat)
 
