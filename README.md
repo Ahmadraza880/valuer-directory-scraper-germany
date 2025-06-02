@@ -58,3 +58,63 @@ Clone this repository and install the required dependencies.
 
 ```bash
 git clone https://github.com/Ahmadraza880/valuer-directory-scraper-germany.git
+```
+
+2. **Navigate to the project directory**
+
+```bash
+cd valuer-directory-scraper-germany
+```
+
+3. **Install dependencies**
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## ⚙️ Usage
+
+To run all scrapers:
+
+```bash
+python run_all_scrapers.py
+```
+
+Or run a specific one (example: BVS):
+
+```bash
+python scrape_bvs.py
+```
+
+All output files will be saved to the `outputs/` folder.
+
+---
+
+## 🧪 Testing
+
+This project can be tested manually or with basic test scripts. You can:
+
+- Verify the structure and rows in each `.csv`/`.xlsx` file
+- Observe console logs and exceptions
+- If test scripts are included:
+
+```bash
+pytest tests/
+```
+
+---
+
+## 🙌 Acknowledgements
+
+This project utilizes public German directories for non-commercial and educational purposes. All data is sourced from publicly accessible sources.
+
+---
+
+## 📬 Contact
+
+For support or questions, contact:
+
+**Ahmad Raza**  
+📧 ranaahmadraza786n@gmail.com
