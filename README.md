@@ -2,8 +2,8 @@
 
 _Effortlessly extract insights, automate your data journey._
 
-![GitHub stars](https://img.shields.io/github/stars/Ahmadraza880/valuer-directory-scraper-germany?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/Ahmadraza880/valuer-directory-scraper-germany?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Ahmadraza880/valuer-directory-scraper-germany??style=plastic)
+![GitHub forks](https://img.shields.io/github/forks/Ahmadraza880/valuer-directory-scraper-germany?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Ahmadraza880/valuer-directory-scraper-germany?style=flat)
 
 > Built with the tools and technologies:  
